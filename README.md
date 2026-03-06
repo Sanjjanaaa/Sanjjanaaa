@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://blog.lsonline.fr/tag/github/" width="400">
 </p>
 <h2 align="center">Hi 👋 Sanjana here</h2>
 
