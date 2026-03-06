@@ -1,20 +1,15 @@
 
-<p align="center">
-<img src="https://blog.lsonline.fr/tag/github/" width="400">
-</p>
-<h2 align="center">Hi 👋 Sanjana here</h2>
+
+<h2 align="center">Hi 👋 Sanjana </h2>
 
 <p align="center">
 Cybersecurity Enthusiast 🔐 <br>
 Interested in Vulnerability Assessment & Penetration Testing <br>
-CCNA | CEH Training | Network Security
+CCNA | CEH | Network Security | System Security.
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
 
 ---
 
@@ -25,6 +20,6 @@ CCNA | CEH Training | Network Security
 - Nessus / Tenable  
 - Nmap  
 - Kali Linux  
-
+- Wireshark
 ---
 
