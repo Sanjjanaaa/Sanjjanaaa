@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- Top GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
+</p>
 
-<!--
-**Sanjjanaaa/Sanjjanaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋 Sanjana here</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+Cybersecurity Enthusiast 🔐 <br>
+Interested in Vulnerability Assessment & Penetration Testing <br>
+CCNA | CEH Training | Network Security
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
+---
+
+### 🛠 Tools I Use
+
+- Burp Suite  
+- OpenVAS  
+- Nessus / Tenable  
+- Nmap  
+- Kali Linux  
+
+---
+
