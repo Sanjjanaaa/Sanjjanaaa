@@ -1,8 +1,7 @@
-<!-- Top GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
-</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
 <h2 align="center">Hi 👋 Sanjana here</h2>
 
 <p align="center">
